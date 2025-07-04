@@ -1,0 +1,17 @@
+[*] HTTP Headers:
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 04 Jul 2025 12:57:15 GMT
+Content-Type: text/html
+Content-Length: 795
+Connection: keep-alive
+location: https://www.jzaas.com/
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+Server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: b011ef960d981e0ae8f21b7209495367-mum-edge8
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.262
+
+[*] DNS Lookup:
