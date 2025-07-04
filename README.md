@@ -57,12 +57,6 @@ bash mcw.sh
 
 ---
 
-## 🖼️ Screenshot
-
-![Screenshot](https://raw.githubusercontent.com/MCW-Legend/MCW-Cyber-Eye/main/screenshot.png)
-
----
-
 ## ⚠️ Disclaimer
 
 > This tool is for educational purposes only.  
